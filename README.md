@@ -1,7 +1,9 @@
 ![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)
 <h1 align="center">Hi 👋, I'm Abdelrahman Sebak</h1>
 <h3 align="center">A passionate Mobile developer</h3>
-<img align="right" alt="Coding" width="1080" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
+<div align="center">
+  <img alt="Coding" width="500" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carnage67694325&label=Profile%20views&color=0e75b6&style=flat" alt="carnage67694325" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carnage67694325" alt="carnage67694325" /></a> </p>
